@@ -1,6 +1,6 @@
 {
     "name": "com.yuxuetian.arttools", 
-    "displayName": "CustomArtTools",
+    "displayName": "Unity_Plugins_ArtTools",
     "version": "1.1.0",
     "description": "一些美术常用的自动化处理工具(URP)",
     "author": {
