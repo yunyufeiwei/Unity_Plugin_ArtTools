@@ -1,14 +1,8 @@
 {
-    "name": "yuxuetian",
+    "name": "yuxuetian.CustomArtTools.Runtime",
     "rootNamespace": "",
-    "references": [
-        "GUID:d8b63aba1907145bea998dd612889d6b",
-        "GUID:329b4ccd385744985bf3f83cfd77dfe7",
-        "GUID:a80695468a7043c888d4a272c9a60f67"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
