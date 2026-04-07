@@ -4,7 +4,7 @@ using System.IO;
 
 public static class TerrainSplatExporter
 {
-    [MenuItem("ArtTools/Level/Terrain Export All Splat Maps (所有地形)")]
+    [MenuItem("ArtTools/Level/Export All Splat Maps (所有地形)")]
     public static void ExportAllTerrainSplatMaps()
     {
         Terrain[] allTerrains = Terrain.activeTerrains;
